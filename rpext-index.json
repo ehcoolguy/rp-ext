@@ -1,6 +1,6 @@
 {
   "id": "pocopico.3w-sas",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/3w-sas/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/3w-sas/rpext-index.json",
   "info": {
     "name": "3w-sas",
     "description": "Adds  Support",
@@ -38,7 +38,7 @@
 }
 {
   "id": "pocopico.8139cp",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/8139cp/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/8139cp/rpext-index.json",
   "info": {
     "name": "8139cp",
     "description": "Adds RealTek RTL-8139C+ series 10/100 PCI Ethernet driver Support",
@@ -76,7 +76,7 @@
 }
 {
   "id": "pocopico.8139too",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/8139too/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/8139too/rpext-index.json",
   "info": {
     "name": "8139too",
     "description": "Adds RealTek RTL-8139 Fast Ethernet driver Support",
@@ -114,7 +114,7 @@
 }
 {
   "id": "pocopico.aacraid",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/aacraid/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/aacraid/rpext-index.json",
   "info": {
     "name": "aacraid",
     "description": "Adds  Support",
@@ -152,7 +152,7 @@
 }
 {
   "id": "pocopico.aic94xx",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/aic94xx/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/aic94xx/rpext-index.json",
   "info": {
     "name": "aic94xx",
     "description": "Adds Adaptec aic94xx SAS/SATA driver Support",
@@ -190,7 +190,7 @@
 }
 {
   "id": "pocopico.alx",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/alx/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/alx/rpext-index.json",
   "info": {
     "name": "alx",
     "description": "Adds Qualcomm Atheros(R) AR816x/AR817x PCI-E Ethernet Network Driver Support",
@@ -228,7 +228,7 @@
 }
 {
   "id": "pocopico.arcmsr",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/arcmsr/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/arcmsr/rpext-index.json",
   "info": {
     "name": "arcmsr",
     "description": "Adds Areca ARC11xx/12xx/16xx/188x SAS/SATA RAID Controller Driver Support",
@@ -265,7 +265,7 @@
 }
 {
   "id": "pocopico.asix",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/asix/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/asix/rpext-index.json",
   "info": {
     "name": "asix",
     "description": "Adds ASIX AX8817X based USB 2.0 Ethernet Devices Support",
@@ -303,7 +303,7 @@
 }
 {
   "id": "pocopico.atl1c",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1c/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/atl1c/rpext-index.json",
   "info": {
     "name": "atl1c",
     "description": "Adds Qualcomm Atheros 100/1000M Ethernet Network Driver Support",
@@ -341,7 +341,7 @@
 }
 {
   "id": "pocopico.atl1e",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1e/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/atl1e/rpext-index.json",
   "info": {
     "name": "atl1e",
     "description": "Adds Atheros 1000M Ethernet Network Driver Support",
@@ -379,7 +379,7 @@
 }
 {
   "id": "pocopico.atl1",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl1/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/atl1/rpext-index.json",
   "info": {
     "name": "atl1",
     "description": "Adds Atheros L1 Gigabit Ethernet Driver Support",
@@ -417,7 +417,7 @@
 }
 {
   "id": "pocopico.atl2",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atl2/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/atl2/rpext-index.json",
   "info": {
     "name": "atl2",
     "description": "Adds Atheros Fast Ethernet Network Driver Support",
@@ -455,7 +455,7 @@
 }
 {
   "id": "pocopico.atlantic",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/atlantic/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/atlantic/rpext-index.json",
   "info": {
     "name": "atlantic",
     "description": "Adds Marvell (Aquantia) Corporation(R) Network Driver Support",
@@ -493,7 +493,7 @@
 }
 {
   "id": "pocopico.ax88179_178a",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ax88179_178a/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/ax88179_178a/rpext-index.json",
   "info": {
     "name": "ax88179_178a",
     "description": "Adds ASIX AX88179/178A based USB 3.0/2.0 Gigabit Ethernet Devices Support",
@@ -531,7 +531,7 @@
 }
 {
   "id": "pocopico.be2net",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/be2net/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/be2net/rpext-index.json",
   "info": {
     "name": "be2net",
     "description": "Adds Emulex OneConnect NIC Driver 10.6.0.3 Support",
@@ -569,7 +569,7 @@
 }
 {
   "id": "pocopico.bna",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/bna/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/bna/rpext-index.json",
   "info": {
     "name": "bna",
     "description": "Adds QLogic BR-series 10G PCIe Ethernet driver Support",
@@ -607,7 +607,7 @@
 }
 {
   "id": "pocopico.bnx2",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/bnx2/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/bnx2/rpext-index.json",
   "info": {
     "name": "bnx2",
     "description": "Adds QLogic BCM5706/5708/5709/5716 Driver Support",
@@ -645,7 +645,7 @@
 }
 {
   "id": "pocopico.bnx2x",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/bnx2x/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/bnx2x/rpext-index.json",
   "info": {
     "name": "bnx2x",
     "description": "Adds QLogic BCM57710/57711/57711E/57712/57712_MF/57800/57800_MF/57810/57810_MF/57840/57840_MF Driver Support",
@@ -683,7 +683,7 @@
 }
 {
   "id": "pocopico.cxgb3",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb3/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/cxgb3/rpext-index.json",
   "info": {
     "name": "cxgb3",
     "description": "Adds Chelsio T3 Network Driver Support",
@@ -721,7 +721,7 @@
 }
 {
   "id": "pocopico.cxgb4",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb4/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/cxgb4/rpext-index.json",
   "info": {
     "name": "cxgb4",
     "description": "Adds Chelsio T4/T5/T6 Network Driver Support",
@@ -759,7 +759,7 @@
 }
 {
   "id": "pocopico.cxgb4vf",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb4vf/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/cxgb4vf/rpext-index.json",
   "info": {
     "name": "cxgb4vf",
     "description": "Adds Chelsio T4/T5/T6 Virtual Function (VF) Network Driver Support",
@@ -797,7 +797,7 @@
 }
 {
   "id": "pocopico.cxgb",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/cxgb/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/cxgb/rpext-index.json",
   "info": {
     "name": "cxgb",
     "description": "Adds Chelsio 10Gb Ethernet Driver Support",
@@ -835,7 +835,7 @@
 }
 {
   "id": "pocopico.dm9601",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/dm9601/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/dm9601/rpext-index.json",
   "info": {
     "name": "dm9601",
     "description": "Adds Davicom DM96xx USB 10/100 ethernet devices Support",
@@ -873,7 +873,7 @@
 }
 {
   "id": "pocopico.e1000e",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000e/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/e1000e/rpext-index.json",
   "info": {
     "name": "e1000e",
     "description": "Adds Intel(R) PRO/1000 Network Driver Support",
@@ -911,7 +911,7 @@
 }
 {
   "id": "pocopico.e1000",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/e1000/rpext-index.json",
   "info": {
     "name": "e1000",
     "description": "Adds Intel(R) PRO/1000 Network Driver Support",
@@ -949,7 +949,7 @@
 }
 {
   "id": "pocopico.early-telnet",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/early-telnet/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/early-telnet/rpext-index.json",
   "info": {
     "name": "Early telnet start",
     "description": "Simple extension which starts telnet early at boot",
@@ -967,7 +967,7 @@
 }
 {
   "id": "pocopico.forcedeth",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/forcedeth/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/forcedeth/rpext-index.json",
   "info": {
     "name": "forcedeth",
     "description": "Adds  Support",
@@ -1005,7 +1005,7 @@
 }
 {
   "id": "pocopico.hpsa",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/hpsa/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/hpsa/rpext-index.json",
   "info": {
     "name": "hpsa",
     "description": "Adds  Support",
@@ -1043,7 +1043,7 @@
 }
 {
   "id": "pocopico.i40e",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/i40e/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/i40e/rpext-index.json",
   "info": {
     "name": "i40e",
     "description": "Adds Intel(R) Ethernet Connection XL710 Network Driver Support",
@@ -1081,7 +1081,7 @@
 }
 {
   "id": "pocopico.iavf",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/iavf/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/iavf/rpext-index.json",
   "info": {
     "name": "iavf",
     "description": "Adds Intel(R) Ethernet Adaptive Virtual Function Driver Support",
@@ -1119,7 +1119,7 @@
 }
 {
   "id": "pocopico.igb",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igb/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/igb/rpext-index.json",
   "info": {
     "name": "igb",
     "description": "Adds Intel(R) Gigabit Ethernet Network Driver Support",
@@ -1157,7 +1157,7 @@
 }
 {
   "id": "pocopico.igbvf",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/igbvf/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/igbvf/rpext-index.json",
   "info": {
     "name": "igbvf",
     "description": "Adds Intel(R) Gigabit Virtual Function Network Driver Support",
@@ -1195,7 +1195,7 @@
 }
 {
   "id": "pocopico.ixgbe",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbe/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/ixgbe/rpext-index.json",
   "info": {
     "name": "ixgbe",
     "description": "Adds Intel(R) 10GbE PCI Express Linux Network Driver Support",
@@ -1233,7 +1233,7 @@
 }
 {
   "id": "pocopico.ixgbe.vanilla",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbe.vanilla/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/ixgbe.vanilla/rpext-index.json",
   "info": {
     "name": "ixgbe",
     "description": "Adds Intel(R) 10GbE PCI Express Linux Network Driver Support",
@@ -1247,7 +1247,7 @@
 }
 {
   "id": "pocopico.ixgbevf",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/ixgbevf/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/ixgbevf/rpext-index.json",
   "info": {
     "name": "ixgbevf",
     "description": "Adds Intel(R) 10 Gigabit Virtual Function Network Driver Support",
@@ -1285,7 +1285,7 @@
 }
 {
   "id": "pocopico.megaraid_sas",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/megaraid_sas/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/megaraid_sas/rpext-index.json",
   "info": {
     "name": "megaraid_sas",
     "description": "Adds Avago MegaRAID SAS Driver Support",
@@ -1323,7 +1323,7 @@
 }
 {
   "id": "pocopico.mlx4_core",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx4_core/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/mlx4_core/rpext-index.json",
   "info": {
     "name": "mlx4_core",
     "description": "Adds  Support",
@@ -1361,7 +1361,7 @@
 }
 {
   "id": "pocopico.mlx5_core",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mlx5_core/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/mlx5_core/rpext-index.json",
   "info": {
     "name": "mlx5_core",
     "description": "Adds Mellanox Connect-IB, ConnectX-4 core driver Support",
@@ -1398,7 +1398,7 @@
 }
 {
   "id": "pocopico.mpt2sas",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt2sas/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/mpt2sas/rpext-index.json",
   "info": {
     "name": "mpt2sas",
     "description": "Adds  Support",
@@ -1436,7 +1436,7 @@
 }
 {
   "id": "pocopico.mpt3sas",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt3sas/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/mpt3sas/rpext-index.json",
   "info": {
     "name": "mpt3sas",
     "description": "Adds LSI MPT Fusion SAS 3.0 Device Driver Support",
@@ -1474,7 +1474,7 @@
 }
 {
   "id": "pocopico.mptsas",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptsas/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/mptsas/rpext-index.json",
   "info": {
     "name": "mptsas",
     "description": "Adds Fusion MPT SAS Host driver Support",
@@ -1512,7 +1512,7 @@
 }
 {
   "id": "pocopico.mptspi",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mptspi/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/mptspi/rpext-index.json",
   "info": {
     "name": "mptspi",
     "description": "Adds Fusion MPT SPI Host driver Support",
@@ -1550,7 +1550,7 @@
 }
 {
   "id": "pocopico.mvsas",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mvsas/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/mvsas/rpext-index.json",
   "info": {
     "name": "mvsas",
     "description": "Adds Marvell 88SE6440 SAS/SATA controller driver Support",
@@ -1587,7 +1587,7 @@
 }
 {
   "id": "pocopico.qla2xxx",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/qla2xxx/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/qla2xxx/rpext-index.json",
   "info": {
     "name": "qla2xxx",
     "description": "Adds  Support",
@@ -1625,7 +1625,7 @@
 }
 {
   "id": "pocopico.qlcnic",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/qlcnic/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/qlcnic/rpext-index.json",
   "info": {
     "name": "qlcnic",
     "description": "Adds QLogic 1/10 GbE Converged/Intelligent Ethernet Driver Support",
@@ -1663,7 +1663,7 @@
 }
 {
   "id": "pocopico.r8101",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8101/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/r8101/rpext-index.json",
   "info": {
     "name": "r8101",
     "description": "Adds RealTek RTL-8101 Fast Ethernet driver Support",
@@ -1701,7 +1701,7 @@
 }
 {
   "id": "pocopico.r8125",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8125/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/r8125/rpext-index.json",
   "info": {
     "name": "r8125",
     "description": "Adds Realtek RTL8125 2.5Gigabit Ethernet driver Support",
@@ -1739,7 +1739,7 @@
 }
 {
   "id": "pocopico.r8152",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8152/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/r8152/rpext-index.json",
   "info": {
     "name": "r8152",
     "description": "Adds Realtek RTL8152/RTL8153 Based USB Ethernet Adapters Support",
@@ -1777,7 +1777,7 @@
 }
 {
   "id": "pocopico.r8168",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8168/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/r8168/rpext-index.json",
   "info": {
     "name": "r8168",
     "description": "Adds RealTek RTL-8168 Gigabit Ethernet driver Support",
@@ -1815,7 +1815,7 @@
 }
 {
   "id": "pocopico.r8169",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/r8169/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/r8169/rpext-index.json",
   "info": {
     "name": "r8169",
     "description": "Adds RealTek RTL-8169 Gigabit Ethernet driver Support",
@@ -1853,7 +1853,7 @@
 }
 {
   "id": "pocopico.raspbi-pill",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/raspbi-pill/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/raspbi-pill/rpext-index.json",
   "info": {
     "name": "Early telnet start",
     "description": "Simple extension which starts telnet early at boot",
@@ -1910,7 +1910,7 @@
 }
 {
   "id": "redpill-boot-wait",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill-boot-wait/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/redpill-boot-wait/rpext-index.json",
   "info": {
     "name": "RedPill Bootwait",
     "description": "Simple extension which stops the execution early waiting for the boot device to appear",
@@ -1951,7 +1951,7 @@
 }
 {
   "id": "pocopico.redpill",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/redpill/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/redpill/rpext-index.json",
   "info": {
     "name": "redpill",
     "description": "Adds  Support",
@@ -1989,7 +1989,7 @@
 }
 {
   "id": "pocopico.rtl8150",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/rtl8150/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/rtl8150/rpext-index.json",
   "info": {
     "name": "rtl8150",
     "description": "Adds rtl8150 based usb-ethernet driver Support",
@@ -2027,7 +2027,7 @@
 }
 {
   "id": "pocopico.sfc",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/sfc/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/sfc/rpext-index.json",
   "info": {
     "name": "sfc",
     "description": "Adds  Support",
@@ -2065,7 +2065,7 @@
 }
 {
   "id": "pocopico.skge",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/skge/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/skge/rpext-index.json",
   "info": {
     "name": "skge",
     "description": "Adds SysKonnect Gigabit Ethernet driver Support",
@@ -2103,7 +2103,7 @@
 }
 {
   "id": "pocopico.sky2",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/sky2/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/sky2/rpext-index.json",
   "info": {
     "name": "sky2",
     "description": "Adds Marvell Yukon 2 Gigabit Ethernet driver Support",
@@ -2141,7 +2141,7 @@
 }
 {
   "id": "pocopico.tcrp-diag",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tcrp-diag/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/tcrp-diag/rpext-index.json",
   "info": {
     "name": "Tinycore Diag",
     "description": "An extension that will assist in collecting DSM diagnostic information",
@@ -2171,7 +2171,7 @@
 }
 {
   "id": "pocopico.tg3",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tg3/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/tg3/rpext-index.json",
   "info": {
     "name": "tg3",
     "description": "Adds Broadcom Tigon3 ethernet driver Support",
@@ -2209,7 +2209,7 @@
 }
 {
   "id": "pocopico.tn40xx",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/tn40xx/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/tn40xx/rpext-index.json",
   "info": {
     "name": "tn40xx",
     "description": "Adds  Support",
@@ -2247,7 +2247,7 @@
 }
 {
   "id": "pocopico.v9fs",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/v9fs/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/v9fs/rpext-index.json",
   "info": {
     "name": "v9fs",
     "description": "Adds  Support",
@@ -2285,7 +2285,7 @@
 }
 {
   "id": "pocopico.via-rhine",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/via-rhine/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/via-rhine/rpext-index.json",
   "info": {
     "name": "via-rhine",
     "description": "Adds VIA Rhine PCI Fast Ethernet driver Support",
@@ -2323,7 +2323,7 @@
 }
 {
   "id": "pocopico.via-velocity",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/via-velocity/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/via-velocity/rpext-index.json",
   "info": {
     "name": "via-velocity",
     "description": "Adds VIA Networking Velocity Family Gigabit Ethernet Adapter Driver Support",
@@ -2361,7 +2361,7 @@
 }
 {
   "id": "pocopico.vmw_pvscsi",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmw_pvscsi/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/vmw_pvscsi/rpext-index.json",
   "info": {
     "name": "vmw_pvscsi",
     "description": "Adds VMware PVSCSI driver Support",
@@ -2399,7 +2399,7 @@
 }
 {
   "id": "pocopico.vmxnet3",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/vmxnet3/rpext-index.json",
   "info": {
     "name": "vmxnet3",
     "description": "Adds VMware vmxnet3 virtual NIC driver Support",
@@ -2437,7 +2437,7 @@
 }
 {
   "id": "pocopico.vxge",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vxge/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/vxge/rpext-index.json",
   "info": {
     "name": "vxge",
     "description": "Adds Neterion's X3100 Series 10GbE PCIe I/OVirtualized Server Adapter Support",
@@ -2475,7 +2475,7 @@
 }
 {
   "id": "pocopico.wch",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/wch/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/ehcoolguy/rp-ext/main/wch/rpext-index.json",
   "info": {
     "name": "wch",
     "description": "Adds  Support",
